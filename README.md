@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utsav Bansal</h1>
 <h3 align="center">A final year student, IIT Goa</h3>
 
-- 🌱 I’m currently learning **Data Science, DSA, Reach, verilog**
+- 🌱 I’m currently learning **Data Science, DSA, React, verilog**
 
 - 📫 How to reach me **utsavbansal75@gmail.com**
 
