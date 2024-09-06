@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science, DSA, React, verilog**
 
-- 📫 How to reach me **utsavbansal75@gmail.com**
+- 📫 How to reach me **iutsavbansal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
